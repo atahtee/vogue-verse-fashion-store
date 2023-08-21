@@ -150,7 +150,7 @@ const CoverVideo = () => {
           data-scroll-delay="0.04"
           data-scroll-speed="2"
         >
-          Designsssssss. Innovate. Embrace
+          Design. Innovate. Embrace
         </motion.h2>
       </Title>
 
