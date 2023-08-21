@@ -144,20 +144,12 @@ const About = () => {
         About Us
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        We&apos;re fashion studio based in california. We create unique designs
-        that will blow your mind. We also design unique jewellary pieces.
-        Fashion is an ART that can not be grasped by everyone.
+        We are a visionary fashion label based in the heart of Nairobi, Kenya. Our creations are an embodiment of artistic expression that leaves an indelible mark. Crafting mesmerizing designs is our passion, and we extend this flair to crafting exquisite jewelry pieces that tell stories of their own. Fashion, a canvas of ART, dances in realms not accessible to all
         <br />
         <br />
-        We are very dedicated to making our products. We offer unique and
-        creative products to a wide range of people. We have a variety of
-        styles, but for most people, all of the options are in the box. We
-        specialize in making things that make you happy.
+        Our devotion to our craft is unwavering. Within our atelier, we curate distinctive and inventive pieces, catering to a diverse tapestry of individuals. Our repertoire boasts a fusion of styles, yet each resonates universally. Our forte lies in fashioning creations that evoke joy.
         <br />
         <br />
-        We strive to build on our vision. As a fashion label, we do our best to
-        create amazing experiences for all people. We are always looking to make
-        something that is easy for everyone.
       </Left>
 
       <Right>

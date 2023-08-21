@@ -108,7 +108,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.13"
             data-scroll-speed="4"
           >
-            W
+            v
           </motion.h1>
           <motion.h1
             variants={item}
@@ -116,7 +116,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.09"
             data-scroll-speed="4"
           >
-            i
+            o
           </motion.h1>
           <motion.h1
             variants={item}
@@ -124,12 +124,20 @@ const CoverVideo = () => {
             data-scroll-delay="0.06"
             data-scroll-speed="4"
           >
-            b
+            g
           </motion.h1>
           <motion.h1
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
+            data-scroll-speed="4"
+          >
+            u
+          </motion.h1>
+          <motion.h1
+            variants={item}
+            data-scroll
+            data-scroll-delay="0.02"
             data-scroll-speed="4"
           >
             e
@@ -142,7 +150,7 @@ const CoverVideo = () => {
           data-scroll-delay="0.04"
           data-scroll-speed="2"
         >
-          inspire. create. belive
+          Design. Innovate. Embrace
         </motion.h2>
       </Title>
 
